@@ -1,0 +1,70 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
+section{
+    height: 500px;
+    padding-bottom: 300px;
+}
+#jack-color{
+    color: rgb(212, 27, 120);
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.second{
+width: 30%;
+float: left;
+margin-left: 2%;
+}
+.second img{
+        width: 100%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,rgb(226, 85, 156), rgb(230, 11, 120));
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+#header-bg{
+    background-image: url(images/header-bg.png);
+}
+.biography-bg{
+    background-image: url(images/biography-bg.png);
+    padding-bottom: 150px;
+}
+.latest-work{
+    background-image: url(images/latest-work-bg.png);
+}
+#footer{
+    text-align: center;
+    color: black;
+    font-size: 12px;
+}
+#last-part{
+    text-align: center;
+}
+#work{
+    text-align: center;
+    margin: 100px;
+}
+.footer-bg{
+    background-image: url(images/footer-bg.png);
+}
